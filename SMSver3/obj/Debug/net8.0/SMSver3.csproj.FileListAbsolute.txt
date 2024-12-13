@@ -1,0 +1,14 @@
+C:\Users\WIndows Jehad\source\repos\SMSver3\bin\Debug\net8.0\SMSver3.exe
+C:\Users\WIndows Jehad\source\repos\SMSver3\bin\Debug\net8.0\SMSver3.deps.json
+C:\Users\WIndows Jehad\source\repos\SMSver3\bin\Debug\net8.0\SMSver3.runtimeconfig.json
+C:\Users\WIndows Jehad\source\repos\SMSver3\bin\Debug\net8.0\SMSver3.dll
+C:\Users\WIndows Jehad\source\repos\SMSver3\bin\Debug\net8.0\SMSver3.pdb
+C:\Users\WIndows Jehad\source\repos\SMSver3\obj\Debug\net8.0\SMSver3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIndows Jehad\source\repos\SMSver3\obj\Debug\net8.0\SMSver3.AssemblyInfoInputs.cache
+C:\Users\WIndows Jehad\source\repos\SMSver3\obj\Debug\net8.0\SMSver3.AssemblyInfo.cs
+C:\Users\WIndows Jehad\source\repos\SMSver3\obj\Debug\net8.0\SMSver3.csproj.CoreCompileInputs.cache
+C:\Users\WIndows Jehad\source\repos\SMSver3\obj\Debug\net8.0\SMSver3.dll
+C:\Users\WIndows Jehad\source\repos\SMSver3\obj\Debug\net8.0\refint\SMSver3.dll
+C:\Users\WIndows Jehad\source\repos\SMSver3\obj\Debug\net8.0\SMSver3.pdb
+C:\Users\WIndows Jehad\source\repos\SMSver3\obj\Debug\net8.0\SMSver3.genruntimeconfig.cache
+C:\Users\WIndows Jehad\source\repos\SMSver3\obj\Debug\net8.0\ref\SMSver3.dll

@@ -1,0 +1,6 @@
+jad|Top 1|5788|Accepted
+fran|Top 3|3787|Pending
+ken|Top 2|1985|Pending
+jad|Top 5|5144|Pending
+ken|Top 1|5788|Pending
+Leon|Top 2|1985|Pending
